@@ -1,3 +1,5 @@
+This code is inspired from https://react.dev/learn/tutorial-tic-tac-toe
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
